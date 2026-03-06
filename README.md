@@ -11,6 +11,6 @@
 **practice** 
 *practice* 
 ***practice***  
-
+<body>This is the update to the file as requested. So far I have created the VM, updated it, and ran some tests through the CLI. I uploaded the bib file and ran grep searches. </body>
 ## Notes
 All files in this repository are created for class purposes.
