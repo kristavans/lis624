@@ -8,9 +8,9 @@ sudo mysql -u root
 
 then:
 ```bash
-create user 'wordpress'@'localhost' identified by 'c';
-create database wordpress;
-grant all privileges on wordpress.* to 'wordpress'@'localhost';
+create user 'omeka'@'localhost' identified by '123456c@TS';
+create database omeka;
+grant all privileges on omeka.* to 'omeka'@'localhost';
 show databases;
 \q
 
@@ -21,5 +21,7 @@ wget https://github.com/omeka/Omeka/releases/download/v3.2/omeka-3.2.zip
 sudo unzip omeka-3.2.zip
 
 ### Enter Login Information
-user: 
-password:
+user: omeka
+password: 123456c@TS
+
+##
