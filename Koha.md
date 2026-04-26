@@ -1,7 +1,8 @@
 ## Koha Install
 ### Step One
 `bash
-sudo apt install tmux ;
+sudo apt install tmux 
+##
 after sucessfully installing make sure the system us up to date with
 `bash
 sudo apt update
